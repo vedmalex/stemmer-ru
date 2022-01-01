@@ -13,6 +13,7 @@
     "strictFunctionTypes": true,
     "strictPropertyInitialization": true,
     "noImplicitAny": true,
+    "skipLibCheck": true,
     "noImplicitReturns": false,
     "noImplicitOverride": true,
     "noImplicitThis": true,
@@ -20,7 +21,7 @@
     "noUnusedParameters": false,
     "noUnusedLocals": true,
     "forceConsistentCasingInFileNames": true,
-    "lib": ["ES2020"],
+    "lib": ["ES2021"],
     "types": ["node", "jest"],
     "baseUrl": "./",
     "rootDir": "./src",
@@ -30,6 +31,5 @@
     "experimentalDecorators": true,
     "moduleResolution": "node"
   },
-  "include": ["src/**/*"],
-  "exclude": ["**/__tests__", "**/__mocks__"]
+  "include": ["src/**/*"]
 }

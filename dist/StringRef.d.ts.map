@@ -1,0 +1,1 @@
+{"version":3,"file":"StringRef.d.ts","sourceRoot":"","sources":["../src/StringRef.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,SAAS;IAC5B,GAAG,EAAE,MAAM,CAAA;gBACC,CAAC,EAAE,GAAG;IAIlB,QAAQ;IAIR,OAAO,CAAC,EAAE,EAAE,MAAM,GAAG,MAAM,EAAE,EAAE,EAAE,MAAM;IAMvC,KAAK,CAAC,EAAE,EAAE,MAAM;CAGjB"}
