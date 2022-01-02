@@ -1,4 +1,5 @@
 import StemmerRu from './StemmerRu';
-import StringRef from './StringRef';
-export { StemmerRu, StringRef };
+import filter from './stopwords';
+import { soundex, soundex_rules } from './soundex';
+export { StemmerRu as stemmer, filter, soundex, soundex_rules };
 //# sourceMappingURL=index.d.ts.map
