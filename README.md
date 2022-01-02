@@ -1,3 +1,5 @@
-# ts-template
+Набор стеммеров фильтров для полнотекстового поиска
 
-template project for TS developemts
+использую его в FlexSearch
+
+добавлен filter, soundex, stemmer
